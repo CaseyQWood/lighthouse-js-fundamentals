@@ -26,4 +26,32 @@ if (temperature < 0) {
 
 console.log("Now you're ready to go outside!");
 
-// second example I as asked to run 
+// second example I as asked to run with temperature change
+
+
+const isCitizen = true;
+const age = 26;
+
+if (isCitizen && age > 18) {
+  console.log("You are eligible to vote.");
+}
+
+// opporators examples
+
+const isCitizen = true;
+const age = 26;
+
+if (isCitizen && age > 18) {
+  console.log("You are eligible to vote.");
+}
+
+// more opporator exaples
+
+if (!raining) {
+    console.log("Leave your umbrella at home!");
+  }
+
+  // bang example
+
+
+

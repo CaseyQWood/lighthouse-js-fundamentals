@@ -3,3 +3,4 @@ const isEven  = function (num) {
 }
 
 console.log(isEven(12));
+// this function checks if a number is even and returns true if it is 

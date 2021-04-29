@@ -1,6 +1,9 @@
 const sayHello  = function (name) {
-    console.log("Hello, " + name);
+    return "Hello, " + name + '!';
   }
   
-  sayHello('casey');
-  sayHello('Bob')
+  let greet = sayHello('Iroh');
+
+  console.log(greet)
+  
+
